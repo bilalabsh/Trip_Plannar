@@ -1,0 +1,7 @@
+Karachi-Marriot=1 room at 1500 Rs, Awari=1 room for 1 night at 1600Rs
+Karachi,Marriot,Islamabad,10000     
+PC,Lahore,2000
+Awari,Lahore,4000
+Awari,Naran,1500
+Marriot,Karachi,3500
+

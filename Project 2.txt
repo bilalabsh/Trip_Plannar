@@ -1,0 +1,7 @@
+Marriot,Karachi,5000
+Marriot,Islamabad,10000     
+PC,Lahore,2000
+Awari,Lahore,4000
+Awari,Naran,1500
+Marriot,Karachi,3500
+
